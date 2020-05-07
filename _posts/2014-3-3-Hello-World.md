@@ -143,26 +143,27 @@ So, as a general summary, Conscientiousness in Human Orbit mostly affects how mu
 
 The Conscientiousness Traits
 
-Self-Efficacy:**
+**Self-Efficacy:**
 
 Self-efficacy is an NPC’s tendency to believe in themselves and their capability to achieve their aims. When determining an NPC’s ambitions, this trait will be taken into account in order to determine just how lofty their ambitions will be. A high value in Self-efficacy will cause an NPC to have a great deal of belief in themselves and they will be more easily able to shrug it off when other NPCs suggest that they aren’t capable of what they claim. A low value in Self-efficacy indicates an NPC who does not have a great deal of belief in themselves – they will set the bar low for their ambitions and they are likely to struggle with their self-esteem. A low value in Self-efficacy  can be very bad for an NPC’s emotional well-being when it is combined with high values in traits from the Neuroticism set.
 
-Orderliness:**
+**Orderliness:**
 
 Orderliness is a fairly simple trait that relates to how ordered or chaotic an NPC prefers things to be. Very orderly NPCs prefer strict routines and schedules to live by; they will cope well with deadlines and are unlikely to miss them or be late. An NPC who has a low value in orderliness is the opposite – they are happier living a more chaotic lifestyle; they are more flexible and will not feel particularly stressed when things do not go according to plan (often, they never had a plan to begin with). An NPC for whom Orderliness is strongly expressed will probably feel frustration or even anger when another NPC cancels an appointment, a planned meeting or a date.
 
-Dutifulness:**
+**Dutifulness:**
 
 Dutifulness can manifest a number of ways. The important thing to remember about Dutifulness is that it only affects people with regard to their actual priorities. An NPC who is very dutiful and also very Friendly (a trait from the Extroversion set) will be very sure to keep promises that they have made to their personal acquaintances. An NPC who is very dutiful and also Achievement-striving will be very sure to keep their appointments regarding work and public life. Note as well that someone who is very Dutiful but not very orderly may fail to keep their promises due to their disorderliness – for such a person, they will feel a very strong sting for having failed to keep their obligations.
 
-Achievement-striving:**
+**Achievement-striving:**
 
 Achievement-striving is a trait that controls an NPC’s relationship with their work – normally, in Human Orbit, this means work in the conventional sense: their career. NPCs that are highly Achievement-striving will work hard to achieve their aims and, if the trait is expressed very strongly, that may sometimes impede their capability to keep up with their other obligations and needs. An NPC that is both highly Achievement-striving and also highly extroverted will have difficulty balancing their work life with their social life and may experience some stress as a result.
 
-Self-discipline:**
+**Self-discipline:**
+
 This is an important trait and pairs well with Achievement-striving. An NPC who is highly Achievement-striving but who does not have a high value in Self-discipline will be very oriented around their career goals, but will not always find the energy to cope with tasks that they dislike. They might be prone to procrastination and this will show up in their level of productivity.
 
-Cautiousness:**
+**Cautiousness:**
 
 Cautiousness is a trait that controls how NPCs make decisions. An NPC who is very cautious will not make decisions quickly and will tend to deliberate over opportunities until they are sure that they are worth taking a risk on; sometimes this will mean that they miss out on opportunities altogether or annoy others with their apparent hesitance. A cautious NPC will be unlikely to express themselves openly to their superiors or to other NPCs that they think are popular. An NPC who is not cautious at all will often make rash decisions that they regret; they may sometimes overstep their mark and risk offending others.
 
